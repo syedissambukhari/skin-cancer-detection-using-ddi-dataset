@@ -14,3 +14,7 @@ Note:Extract the images_for_prediction.rar file for samples.Changes the director
 Dataset Link:
 
 https://drive.google.com/drive/folders/1ANGAsb5ghSmPef2Z3gDsDzwP4QS0Gs6h?usp=drive_link
+
+ResNet Model Link:
+
+https://drive.google.com/file/d/1H36D8Mglvvy8rX4zd0U0LmNbkXIfqt5i/view?usp=sharing
