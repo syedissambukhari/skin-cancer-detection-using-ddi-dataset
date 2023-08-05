@@ -18,3 +18,7 @@ https://drive.google.com/drive/folders/1ANGAsb5ghSmPef2Z3gDsDzwP4QS0Gs6h?usp=dri
 ResNet Model Link:
 
 https://drive.google.com/file/d/1H36D8Mglvvy8rX4zd0U0LmNbkXIfqt5i/view?usp=sharing
+
+AlexNet model:
+
+https://drive.google.com/file/d/1SHn3JhjHJV7-UANZQejR0WOL9RlOQ6zE/view?usp=sharing
