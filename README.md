@@ -22,3 +22,6 @@ https://drive.google.com/file/d/1H36D8Mglvvy8rX4zd0U0LmNbkXIfqt5i/view?usp=shari
 AlexNet model:
 
 https://drive.google.com/file/d/1SHn3JhjHJV7-UANZQejR0WOL9RlOQ6zE/view?usp=sharing
+SVM model Link:
+
+https://drive.google.com/file/d/1QrsxLtFCs_I3JjnWH3V7Z-Et0S9hrhRN/view?usp=sharing
